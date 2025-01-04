@@ -28,6 +28,18 @@
       icon: BBB.png
       url: https://builtbybit.com/resources/announcements-for-pterodactyl.32546
 
+# adminauditlogs
+- name: Admin Audit Logs
+  author: demon
+  description: Logs all admin actions in the panel
+  thumbnail: adminauditlogs.jpg
+  identifier: adminauditlogs
+  category: extensions
+  downloads:
+  - name: BuiltByBit
+    icon: BBB.png
+    url: https://builtbybit.com/resources/pterodactyl-admin-logs.57529/
+
 # Automation
 - name: Automation
   author: ExperimentalX
